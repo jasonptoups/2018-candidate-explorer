@@ -19,6 +19,14 @@
       "business": true,
       "academic": false,
       "stem": false
+    },
+    "ethnicities": {
+      "white": true,
+      "hispanic": true,
+      "eastasian": false,
+      "southasian": false,
+      "africanamerican": false,
+      "mixed": true
     }
   },
   {
@@ -41,6 +49,14 @@
       "business": true,
       "academic": false,
       "stem": true
+    },
+    "ethnicities": {
+      "white": true,
+      "hispanic": false,
+      "eastasian": false,
+      "southasian": false,
+      "africanamerican": false,
+      "mixed": false
     }
   },
   {
@@ -63,6 +79,14 @@
       "business": true,
       "academic": false,
       "stem": false
+    },
+    "ethnicities": {
+      "white": true,
+      "hispanic": false,
+      "eastasian": false,
+      "southasian": false,
+      "africanamerican": false,
+      "mixed": false
     }
   }
 ]

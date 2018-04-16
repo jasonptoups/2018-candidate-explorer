@@ -20,6 +20,14 @@ const candidateSchema = new mongoose.Schema({
     business: Boolean,
     academic: Boolean,
     stem: Boolean
+  },
+  ethnicities: {
+    white: Boolean,
+    hispanic: Boolean,
+    eastasian: Boolean,
+    southasian: Boolean,
+    africanamerican: Boolean,
+    mixed: Boolean
   }
 })
 
