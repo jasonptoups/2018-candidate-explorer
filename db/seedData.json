@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Beto O'Rourke",
+    "image": "none",
+    "state": "TX",
+    "district": "Senate",
+    "age": 45,
+    "gender": "Male",
+    "sexuality": "Straight",
+    "website": "https://betofortexas.com/",
+    "bio": "Beto O’Rourke is a fourth-generation Texan, born and raised in El Paso. After graduating from Columbia University, Beto worked in New York for a few years before deciding to move back to his hometown and start a small technology company. El Paso wasn’t the most likely place to start a company like this, but thanks to the work of some really talented El Pasoans, the company was a success. Over the years Stanton Street hired dozens of people in high skill, high-wage jobs that one might not expect to see in a border community. Outside of work, Beto became deeply involved in the civic, business and community efforts in El Paso. He ran for El Paso City Council in 2005 and served for two terms before running for U.S. Congress in 2012, taking on an eight-term incumbent and winning. He knocked on thousands of doors and had real conversations, face to face, with the voters in El Paso.",
+    "hot": true,
+    "professions": {
+      "educator": false,
+      "veteran": false,
+      "law": false,
+      "publicservant": false,
+      "politician": true,
+      "business": true,
+      "academic": false,
+      "stem": false
+    }
+  },
+  {
+    "name": "Elaine Luria",
+    "image": "none",
+    "state": "VA",
+    "district": "2",
+    "age": 42,
+    "gender": "Female",
+    "sexuality": "Straight",
+    "website": "https://elaineforcongress.com/",
+    "bio": "When her peers were heading off to college, Elaine was compelled to be part of something bigger than herself and joined the Navy at 17—so she could give back and help build a safer, stronger, and fairer society for this generation and the next. On her first day in uniform, she was inspired by the Naval Academy’s Mission, to assume the highest responsibilities of command, citizenship, and government.  Elaine served for 20 years as a Surface Warfare Officer and nuclear engineer deploying six times—twice forward-deployed on ships stationed in Japan—conducting operations in the Middle East and Western Pacific on destroyers, cruisers, and aircraft carriers.",
+    "hot": false,
+    "professions": {
+      "educator": false,
+      "veteran": true,
+      "law": false,
+      "publicservant": false,
+      "politician": false,
+      "business": true,
+      "academic": false,
+      "stem": true
+    }
+  },
+  {
+    "name": "Angie Craig",
+    "image": "none",
+    "state": "MN",
+    "district": "2",
+    "age": 46,
+    "gender": "Female",
+    "sexuality": "Gay",
+    "website": "https://www.angiecraig.com/",
+    "bio": "I grew up in a family with lots of love, but also plenty of hardship.  Raised by a single mother in a mobile home park, I watched her strive to complete her teaching degree and raise three kids. My grandmother helped at home and worked in a union shoe factory to contribute. At times, our family didn’t have health insurance, and I watched as my mom struggled to pay the bills that piled up on our kitchen table after my little sister needed hospital care. Like my mom, I worked two jobs to put myself through state college, with help from student loans. After graduation, I became a newspaper reporter, and then rose over 15 years to eventually lead a workforce of 16,000 employees as head of Global Human Resources for a major Minnesota manufacturer. Today, I'm a mom to four amazing young men - three in college and one in high school.",
+    "hot": true,
+    "professions": {
+      "educator": false,
+      "veteran": false,
+      "law": false,
+      "publicservant": false,
+      "politician": false,
+      "business": true,
+      "academic": false,
+      "stem": false
+    }
+  }
+]
