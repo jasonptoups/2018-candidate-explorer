@@ -12,22 +12,22 @@ const candidateSchema = new mongoose.Schema({
   bio: String,
   hot: Boolean,
   professions: {
-    educator: Boolean,
-    veteran: Boolean,
-    law: Boolean,
-    publicservant: Boolean,
-    politician: Boolean,
-    business: Boolean,
-    academic: Boolean,
-    stem: Boolean
+    Educator: Boolean,
+    Veteran: Boolean,
+    Law: Boolean,
+    "Public Servant": Boolean,
+    Politician: Boolean,
+    Business: Boolean,
+    Academic: Boolean,
+    STEM: Boolean
   },
   ethnicities: {
-    white: Boolean,
-    hispanic: Boolean,
-    eastasian: Boolean,
-    southasian: Boolean,
-    africanamerican: Boolean,
-    mixed: Boolean
+    White: Boolean,
+    Hispanic: Boolean,
+    "East Asian": Boolean,
+    "South Asian": Boolean,
+    "African American": Boolean,
+    Mixed: Boolean
   }
 })
 
