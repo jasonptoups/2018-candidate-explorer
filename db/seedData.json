@@ -44,7 +44,7 @@
       "Educator": false,
       "Veteran": true,
       "Law": false,
-      "Public Servant": false,
+      "Public Servant": true,
       "Politician": false,
       "Business": true,
       "Academic": false,
@@ -53,7 +53,7 @@
     "ethnicities": {
       "White": true,
       "Hispanic": false,
-      "East Asian": false,
+      "East Asian": true,
       "South Asian": false,
       "African American": false,
       "Mixed": false
