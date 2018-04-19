@@ -1,7 +1,7 @@
 [
   {
     "name": "Beto O'Rourke",
-    "image": "none",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Beto_O'Rourke-7.jpg",
     "state": "TX",
     "district": "Senate",
     "age": 45,
@@ -31,7 +31,7 @@
   },
   {
     "name": "Elaine Luria",
-    "image": "none",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Elaine_Luria.jpg",
     "state": "VA",
     "district": "2",
     "age": 42,
@@ -61,12 +61,12 @@
   },
   {
     "name": "Angie Craig",
-    "image": "none",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Angie_Craig_photo.jpg",
     "state": "MN",
     "district": "2",
     "age": 46,
     "gender": "Female",
-    "sexuality": "Gay",
+    "sexuality": "LGBT",
     "website": "https://www.angiecraig.com/",
     "bio": "I grew up in a family with lots of love, but also plenty of hardship.  Raised by a single mother in a mobile home park, I watched her strive to complete her teaching degree and raise three kids. My grandmother helped at home and worked in a union shoe factory to contribute. At times, our family didn’t have health insurance, and I watched as my mom struggled to pay the bills that piled up on our kitchen table after my little sister needed hospital care. Like my mom, I worked two jobs to put myself through state college, with help from student loans. After graduation, I became a newspaper reporter, and then rose over 15 years to eventually lead a workforce of 16,000 employees as head of Global Human Resources for a major Minnesota manufacturer. Today, I'm a mom to four amazing young men - three in college and one in high school.",
     "hot": true,
@@ -77,6 +77,486 @@
       "Public Servant": false,
       "Politician": false,
       "Business": true,
+      "Academic": false,
+      "STEM": false
+    },
+    "ethnicities": {
+      "White": true,
+      "Hispanic": false,
+      "East Asian": false,
+      "South Asian": false,
+      "African American": false,
+      "Mixed": false
+    }
+  },
+  {
+    "name": "Conor Lamb",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Conor_Lamb.jpg",
+    "state": "PA",
+    "district": "17",
+    "age": 33,
+    "gender": "Male",
+    "sexuality": "Straight",
+    "website": "https://conorlamb.com/",
+    "bio": "Congressman-elect Conor Lamb is a Marine and former federal prosecutor who was elected on March 13, 2018 to represent Pennsylvania's 18th congressional district in Congress, which includes parts of Allegheny, Westmoreland, Washington and Greene Counties in southwestern Pennsylvania. Lamb defeated Republican Rick Saccone in the March 13th Special Election to represent the district for the remainder of 2018, filling the seat left open after former Rep. Tim Murphy's resignation.",
+    "hot": true,
+    "professions": {
+      "Educator": false,
+      "Veteran": false,
+      "Law": true,
+      "Public Servant": false,
+      "Politician": false,
+      "Business": false,
+      "Academic": false,
+      "STEM": false
+    },
+    "ethnicities": {
+      "White": true,
+      "Hispanic": false,
+      "East Asian": false,
+      "South Asian": false,
+      "African American": false,
+      "Mixed": false
+    }
+  },
+  {
+    "name": "Chrissy Houlahan",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Chrissy_Houlahan.jpg",
+    "state": "PA",
+    "district": "6",
+    "age": 0,
+    "gender": "Female",
+    "sexuality": "Straight",
+    "website": "https://www.chrissyhoulahanforcongress.com/",
+    "bio": "Daughter of a Holocaust survivor and career naval officer. Earned her engineering degree from Stanford with an ROTC scholarship and received her M.S. in Technology and Policy from MIT. Captain in the USAFR; 3 years Active and 13 years Inactive Reserve",
+    "hot": false,
+    "professions": {
+      "Educator": true,
+      "Veteran": true,
+      "Law": false,
+      "Public Servant": false,
+      "Politician": false,
+      "Business": false,
+      "Academic": false,
+      "STEM": true
+    },
+    "ethnicities": {
+      "White": true,
+      "Hispanic": false,
+      "East Asian": false,
+      "South Asian": false,
+      "African American": false,
+      "Mixed": false
+    }
+  },
+  {
+    "name": "Alison Friedman",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Alison_Friedman.jpg",
+    "state": "VA",
+    "district": "10",
+    "age": 0,
+    "gender": "Female",
+    "sexuality": "Straight",
+    "website": "https://alisonforvirginia.com/",
+    "bio": "I’ve worked in the national security sector, both locally and nationally on issues impacting transportation infrastructure and airport security, human rights and partnering with business to advance our common interests and values. I co-founded a nonprofit to fight human trafficking in supply chains and moved to the region  in 2009 to continue that fight as a senior State Department official guiding the Obama administration’s intensified focus to combat human trafficking at home and abroad.",
+    "hot": true,
+    "professions": {
+      "Educator": false,
+      "Veteran": false,
+      "Law": false,
+      "Public Servant": false,
+      "Politician": false,
+      "Business": true,
+      "Academic": false,
+      "STEM": false
+    },
+    "ethnicities": {
+      "White": true,
+      "Hispanic": false,
+      "East Asian": false,
+      "South Asian": false,
+      "African American": false,
+      "Mixed": false
+    }
+  },
+  {
+    "name": "Jennifer Wexton",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Jennifer_Wexton.jpg",
+    "state": "VA",
+    "district": "10",
+    "age": 0,
+    "gender": "Female",
+    "sexuality": "Straight",
+    "website": "https://jenniferwexton.com/",
+    "bio": "Senator Jennifer Wexton has been serving the people of Northern Virginia for almost two decades, as a prosecutor, an advocate for children, and as a legislator focusing on issues of concern to families.",
+    "hot": false,
+    "professions": {
+      "Educator": false,
+      "Veteran": false,
+      "Law": true,
+      "Public Servant": false,
+      "Politician": true,
+      "Business": false,
+      "Academic": false,
+      "STEM": false
+    },
+    "ethnicities": {
+      "White": true,
+      "Hispanic": false,
+      "East Asian": false,
+      "South Asian": false,
+      "African American": false,
+      "Mixed": false
+    }
+  },
+  {
+    "name": "Dan Helmer",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Helmer_picture.jpg",
+    "state": "VA",
+    "district": "10",
+    "age": 0,
+    "gender": "Male",
+    "sexuality": "Straight",
+    "website": "https://www.helmerforcongress.com/",
+    "bio": "Dan Helmer lives in Fairfax, in Virginia's 10th Congressional District. He is a U.S. Army veteran, business strategist, husband, and father. His wife, Karen, is a public school teacher, and their two young sons, Harris and Aaron, attend class just down the hall from their mom. Dan, the son and grandson of immigrants, has devoted much of his life to serving the country that welcomed his family when they were refugees -- and that enabled them to thrive thereafter.",
+    "hot": false,
+    "professions": {
+      "Educator": false,
+      "Veteran": true,
+      "Law": false,
+      "Public Servant": false,
+      "Politician": false,
+      "Business": true,
+      "Academic": false,
+      "STEM": false
+    },
+    "ethnicities": {
+      "White": true,
+      "Hispanic": false,
+      "East Asian": false,
+      "South Asian": false,
+      "African American": false,
+      "Mixed": false
+    }
+  },
+  {
+    "name": "Abigail Spanberger",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Spanberger_Abigail.jpg",
+    "state": "VA",
+    "district": "7",
+    "age": 0,
+    "gender": "Female",
+    "sexuality": "Straight",
+    "website": "https://abigailspanberger.com/",
+    "bio": "Abigail began her career of public service as a federal law enforcement officer working narcotics and money laundering cases with the US Postal Inspection Service. Following her love of country, public service, and languages, Abigail joined the CIA as an Operations Officer. She traveled and lived abroad collecting intelligence, managing assets, and overseeing high-profile programs in service to the United States. In 2014, Abigail left government service to begin a career in the private sector and bring her and her family back home to Virginia. Working at EAB – Royall & Company, Abigail helped colleges and universities to create diverse student bodies, increase graduation rates, and break down financial barriers to higher education.",
+    "hot": false,
+    "professions": {
+      "Educator": false,
+      "Veteran": false,
+      "Law": true,
+      "Public Servant": true,
+      "Politician": false,
+      "Business": false,
+      "Academic": false,
+      "STEM": false
+    },
+    "ethnicities": {
+      "White": true,
+      "Hispanic": false,
+      "East Asian": false,
+      "South Asian": false,
+      "African American": false,
+      "Mixed": false
+    }
+  },
+  {
+    "name": "Lindsey Davis Stover",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Lindsey_Davis_Stover.png",
+    "state": "VA",
+    "district": "10",
+    "age": 0,
+    "gender": "Female",
+    "sexuality": "Straight",
+    "website": "https://lindseyforcongress.com/",
+    "bio": "As a hard-working mom and small business owner in McLean, VA, I understand the importance of this moment. A moment where courage is required out of all of us. Courage to fight to protect and strengthen our public schools, healthcare for our families, jobs and development opportunities for our communities, and the courage to finally put the people of our district first.",
+    "hot": true,
+    "professions": {
+      "Educator": false,
+      "Veteran": false,
+      "Law": false,
+      "Public Servant": true,
+      "Politician": false,
+      "Business": false,
+      "Academic": false,
+      "STEM": false
+    },
+    "ethnicities": {
+      "White": true,
+      "Hispanic": false,
+      "East Asian": false,
+      "South Asian": false,
+      "African American": false,
+      "Mixed": false
+    }
+  },
+  {
+    "name": "Roger Dean Huffstetler",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Roger_Dean_(RD)_Huffstetler-6.png",
+    "state": "VA",
+    "district": "17",
+    "age": 0,
+    "gender": "Male",
+    "sexuality": "Straight",
+    "website": "https://www.rdforva.com/",
+    "bio": "I was born in the Gaston County Hospital in North Carolina and raised in a blue collar family where everyone worked with their hands. Some of my fondest childhood memories are going to the bottoms with my father to feed the cows and chop wood. Times weren’t always easy growing up - both of my parents struggled with addiction. However, with the help of public schools, outstanding mentors, and scholarships, I was able to graduate from the University of West Georgia. I later served my country as a U.S. Marine, deploying to Iraq and Afghanistan. When I came home, I attended graduate school with the help of the GI Bill and worked in the private sector, eventually helping to lead a technology startup.",
+    "hot": true,
+    "professions": {
+      "Educator": false,
+      "Veteran": true,
+      "Law": false,
+      "Public Servant": false,
+      "Politician": false,
+      "Business": false,
+      "Academic": false,
+      "STEM": true
+    },
+    "ethnicities": {
+      "White": true,
+      "Hispanic": false,
+      "East Asian": false,
+      "South Asian": false,
+      "African American": false,
+      "Mixed": false
+    }
+  },
+  {
+    "name": "Madeleine Dean",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/MadeleineDean.jpg",
+    "state": "PA",
+    "district": "4",
+    "age": 0,
+    "gender": "Female",
+    "sexuality": "Straight",
+    "website": "https://www.mad4pa.com/",
+    "bio": "Madeleine found her calling in public service. Since elected to the State House, Madeleine has been an outspoken member, championing progressive priorities like public education, combating addiction, equal rights, access to healthcare, ethics, criminal justice reform, and gun violence. Issues that matter to those too often ignored. Madeleine has been dedicated to reducing gun violence and the problem of illegal guns. Traveling with her husband and three young sons to the “Million Mom March” in 2001.",
+    "hot": false,
+    "professions": {
+      "Educator": true,
+      "Veteran": false,
+      "Law": false,
+      "Public Servant": false,
+      "Politician": true,
+      "Business": false,
+      "Academic": false,
+      "STEM": false
+    },
+    "ethnicities": {
+      "White": true,
+      "Hispanic": false,
+      "East Asian": false,
+      "South Asian": false,
+      "African American": false,
+      "Mixed": false
+    }
+  },
+  {
+    "name": "Mary Gay Scanlon",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/scanlon_mary_gay_065_crop.jpg",
+    "state": "PA",
+    "district": "5",
+    "age": 0,
+    "gender": "Female",
+    "sexuality": "Straight",
+    "website": "https://www.scanlonforcongress.com/",
+    "bio": "Mary Gay began her advocacy for children with the Support Center for Child Advocates where she has served as a volunteer attorney or board member since 1985. This led to her appointment as co-chair of the Philadelphia Bar Association’s Commission on Children at Risk and many other boards and initiatives fighting for better lives for our children.",
+    "hot": false,
+    "professions": {
+      "Educator": true,
+      "Veteran": false,
+      "Law": true,
+      "Public Servant": true,
+      "Politician": false,
+      "Business": false,
+      "Academic": false,
+      "STEM": false
+    },
+    "ethnicities": {
+      "White": true,
+      "Hispanic": false,
+      "East Asian": false,
+      "South Asian": false,
+      "African American": false,
+      "Mixed": false
+    }
+  },
+  {
+    "name": "Ashley Lunkenheimer",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Ashley_Lunkenheimer.jpg",
+    "state": "PA",
+    "district": "5",
+    "age": 0,
+    "gender": "Female",
+    "sexuality": "Straight",
+    "website": "http://ashleylunkenheimer.com/",
+    "bio": "As an Assistant United States Attorney in the Eastern District of Pennsylvania, Ashley spent nearly a decade protecting communities from violent drug gangs, gun violence and financial fraud. Ashley helped dismantle “The Cut-Off” and “Rose and Upland” Gangs in the City of Chester, sending over 50 violent gang members to prison. She successfully prosecuted Daniel Siddons, the West Chester financial advisor who stole the life savings of 10 elderly couples. Ashley also prosecuted numerous firearms cases, helping take illegal guns off the streets.",
+    "hot": false,
+    "professions": {
+      "Educator": false,
+      "Veteran": false,
+      "Law": true,
+      "Public Servant": false,
+      "Politician": false,
+      "Business": false,
+      "Academic": false,
+      "STEM": false
+    },
+    "ethnicities": {
+      "White": true,
+      "Hispanic": false,
+      "East Asian": false,
+      "South Asian": false,
+      "African American": false,
+      "Mixed": false
+    }
+  },
+  {
+    "name": "Leslie Cockburn",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Leslie_Cockburn.jpg",
+    "state": "PA",
+    "district": "5",
+    "age": 0,
+    "gender": "Female",
+    "sexuality": "Straight",
+    "website": "https://conorlamb.com/",
+    "bio": "Leslie is using her skills from a distinguished career in journalism to dig into the problems of the 5th District of Virginia and find solutions.  She has driven thousands of miles in her car, listening to the voices of people in 21 rural counties along with Danville and Charlottesville.  Each county has its own critical issues and each shares deep concerns with the district as a whole.  Leslie will use her profound knowledge of Washington and Capitol Hill from years as a critical observer to make sure Congress serves the people of Virginia.",
+    "hot": true,
+    "professions": {
+      "Educator": false,
+      "Veteran": false,
+      "Law": false,
+      "Public Servant": true,
+      "Politician": false,
+      "Business": false,
+      "Academic": false,
+      "STEM": false
+    },
+    "ethnicities": {
+      "White": true,
+      "Hispanic": false,
+      "East Asian": false,
+      "South Asian": false,
+      "African American": false,
+      "Mixed": false
+    }
+  },
+  {
+    "name": "Daniel Muroff",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Dan_Muroff.jpg",
+    "state": "PA",
+    "district": "5",
+    "age": 0,
+    "gender": "Male",
+    "sexuality": "Straight",
+    "website": "https://muroff4congress.com/",
+    "bio": "As an attorney and advocate in private practice, Dan has led efforts to aid women transitioning into the workforce, expedite federal funds to build affordable housing for people with disabilities, and secure funding for neighborhood improvements.",
+    "hot": false,
+    "professions": {
+      "Educator": false,
+      "Veteran": false,
+      "Law": true,
+      "Public Servant": false,
+      "Politician": false,
+      "Business": false,
+      "Academic": false,
+      "STEM": false
+    },
+    "ethnicities": {
+      "White": true,
+      "Hispanic": false,
+      "East Asian": false,
+      "South Asian": false,
+      "African American": false,
+      "Mixed": false
+    }
+  },
+  {
+    "name": "Greg Edwards",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/046BE7C2-03F2-4212-B749-83E418BB9887.jpeg",
+    "state": "PA",
+    "district": "7",
+    "age": 0,
+    "gender": "Male",
+    "sexuality": "Straight",
+    "website": "https://www.edwardsforpa.com/",
+    "bio": "Greg is the Founder and Senior Pastor of Resurrected Life Community Church and the President and CEO of Resurrected Community Development Corporation, which led to the creation of the Resurrected Life Children’s Academy, the James Lawson Freedom School, and the Campaign for Change organizing initiative. He has spent the last 20 years building a racially diverse, culturally rich, economically self-sufficient, and politically aware community that has addressed racial, economic, and educational disparities within Allentown and throughout the greater Lehigh Valley.",
+    "hot": false,
+    "professions": {
+      "Educator": false,
+      "Veteran": false,
+      "Law": false,
+      "Public Servant": true,
+      "Politician": false,
+      "Business": false,
+      "Academic": false,
+      "STEM": false
+    },
+    "ethnicities": {
+      "White": false,
+      "Hispanic": false,
+      "East Asian": false,
+      "South Asian": false,
+      "African American": true,
+      "Mixed": false
+    }
+  },
+  {
+    "name": "Jessica King",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Jess_King.JPG",
+    "state": "PA",
+    "district": "11",
+    "age": 0,
+    "gender": "Female",
+    "sexuality": "Straight",
+    "website": "https://jesskingforcongress.com/",
+    "bio": "Jess King is a working mom, small business champion, and a leader in local economic development. She never planned on running for office. But after a career fighting for working families in Pennsylvania, she joined the race for the 11th District because too many of us are working hard for too little while a greedy few rig the game in Washington.",
+    "hot": false,
+    "professions": {
+      "Educator": false,
+      "Veteran": false,
+      "Law": false,
+      "Public Servant": false,
+      "Politician": false,
+      "Business": true,
+      "Academic": false,
+      "STEM": false
+    },
+    "ethnicities": {
+      "White": true,
+      "Hispanic": false,
+      "East Asian": false,
+      "South Asian": false,
+      "African American": false,
+      "Mixed": false
+    }
+  },
+  {
+    "name": "Christina Hartman",
+    "image": "https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Christina_Hartman.jpg",
+    "state": "PA",
+    "district": "10",
+    "age": 0,
+    "gender": "Female",
+    "sexuality": "Straight",
+    "website": "https://christinamhartman.com/",
+    "bio": "These lessons about community took hold, and I knew I wanted to make a career of sharing them around the world. After graduating from the George Washington University (Washington, DC) and Fordham University (New York City), I took on some of the world’s toughest dictatorships, leading numerous high-profile organizations and advocating for freedom and democracy in those countries and in Washington. From South Sudan to Afghanistan, I helped organizations strengthen their countries’ democracies through civic education, elections, and youth leadership development.",
+    "hot": false,
+    "professions": {
+      "Educator": true,
+      "Veteran": false,
+      "Law": false,
+      "Public Servant": true,
+      "Politician": false,
+      "Business": false,
       "Academic": false,
       "STEM": false
     },
