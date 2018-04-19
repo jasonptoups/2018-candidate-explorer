@@ -5,9 +5,13 @@ const cors = require('cors')
 const app = express()
 app.use(parser.json())
 app.use(cors())
+app.set('port', process.env.PORT || 4000)
+
 
 const candidatesController = require('./controllers/candidates')
 
 app.use('/api/candidates', candidatesController)
 
-app.listen(4000, _ => console.log('listening on port 4000'))
+app.listen(app.get('port'), () => {
+  console.log(`✅ PORT: ${app.get('port')} 🌟`)
+})
